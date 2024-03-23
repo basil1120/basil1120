@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @basil1120 aka Jeremiah Basil Aura
+- 👋 Hi, I’m @basil1120 aka Bassam Basil Aura
 - 👀 I’m interested in Cloud Native Application development, Micro-Services and Containerization technologies
 - 🌱 I’m currently learning machine learning and AI
 - 💞️ I’m looking to collaborate on JAVA open-source projects
